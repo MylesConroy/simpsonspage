@@ -1,0 +1,9 @@
+.body {
+    background-color: #3085ac;
+    }
+
+.container {
+    background-color: #3085ac;
+    display: flex;
+    flex-direction: column;
+}
